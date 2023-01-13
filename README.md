@@ -10,3 +10,6 @@ I'm Weiser. Welcome to my [personal site](https://weiser.fun).
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ✨
+![rfyiamcool's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xwzbupt&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=&hide=html&exclude_repo=python_vim&hide_border=true&theme=dracula)
